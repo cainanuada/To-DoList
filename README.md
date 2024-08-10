@@ -1,4 +1,4 @@
-# To-DoList 
+# To-DoList ✔
 ---
 Este é um projeto de uma lista de tarefas simples, onde você pode adicionar, remover e marcar tarefas como concluídas. O projeto utiliza **HTML**, **CSS** e **JavaScript** para criar uma interface interativa e dinâmica. 
 
